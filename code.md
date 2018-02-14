@@ -12,5 +12,6 @@ int main()
 	cin >> w;
 
        Area();
+      
 
 }
