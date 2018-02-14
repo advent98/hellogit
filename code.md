@@ -1,4 +1,4 @@
-#include<iosstream>
+#include<iostream>
 #include"Area.h"
 
 int main()
